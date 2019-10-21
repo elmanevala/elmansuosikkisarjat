@@ -1,0 +1,37 @@
+.hyvat{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 5em;
+    line-height: 250px;
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    background-color: #eee;
+    padding: 40px;
+    position: absolute;
+    left: 1000px;
+    margin-top: 60px;
+}
+.huonot{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 5em;
+    vertical-align: middle;
+    line-height: 250px;
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    background-color: #eee;
+    padding: 40px;
+    position: absolute;
+    left: 400px;
+    margin-top: 60px;
+}
+h1{
+    font-size: 3cm;
+    margin-top: 100px;
+    text-align: center;
+}
+.sarjat{
+    text-align: center;
+    margin-top: 60px;
+    
+}

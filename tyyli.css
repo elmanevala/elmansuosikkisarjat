@@ -8,8 +8,9 @@
     background-color: #eee;
     padding: 40px;
     position: absolute;
-    left: 20%;
+    top: 540px;
     margin-top: 60px;
+    left: 30%;
 }
 .huonot{
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -22,7 +23,8 @@
     background-color: #eee;
     padding: 40px;
     position: absolute;
-    left: 52%;
+    top: 140px ;
+    left: 30%;
     margin-top: 60px;
 }
 

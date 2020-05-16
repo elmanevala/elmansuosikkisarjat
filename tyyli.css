@@ -7,7 +7,7 @@
     height: 250px;
     background-color: #eee;
     padding: 40px;
-    position: absolute;
+    position: fixed;
     left: 1000px;
     margin-top: 60px;
 }
@@ -21,7 +21,7 @@
     height: 250px;
     background-color: #eee;
     padding: 40px;
-    position: absolute;
+    position: fixed;
     left: 400px;
     margin-top: 60px;
 }

@@ -7,8 +7,8 @@
     height: 250px;
     background-color: #eee;
     padding: 40px;
-    position: fixed;
-    left: 1000px;
+    position: absolute;
+    left: 20%;
     margin-top: 60px;
 }
 .huonot{
@@ -21,8 +21,8 @@
     height: 250px;
     background-color: #eee;
     padding: 40px;
-    position: fixed;
-    left: 400px;
+    position: absolute;
+    left: 52%;
     margin-top: 60px;
 }
 

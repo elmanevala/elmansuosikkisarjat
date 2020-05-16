@@ -10,7 +10,8 @@
     position: absolute;
     top: 540px;
     margin-top: 60px;
-    left: 34%;
+    left: 50%;
+    transform: translate(-50%);
 }
 .huonot{
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -24,7 +25,8 @@
     padding: 40px;
     position: absolute;
     top: 140px ;
-    left: 34%;
+    left: 50%;
+    transform: translate(-50%);
     margin-top: 60px;
 }
 

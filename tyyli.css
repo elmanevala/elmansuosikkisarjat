@@ -1,11 +1,16 @@
+body {background-color: #FFA07A;
+      color: #FAF0E6;     
+}
+
 .hyvat{
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     font-size: 5em;
+    color: blue;
     line-height: 250px;
     text-align: center;
     width: 500px;
     height: 250px;
-    background-color: #eee;
+    background-color: #66CDAA;
     padding: 40px;
     position: absolute;
     top: 560px;
@@ -21,13 +26,30 @@
     text-align: center;
     width: 500px;
     height: 250px;
-    background-color: #eee;
+    background-color: #66CDAA;
     padding: 40px;
     position: absolute;
     top: 180px ;
     left: 50%;
     transform: translate(-50%);
     margin-top: 60px;
+}
+
+.nolot{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 1em;
+    line-height: 250px;
+    text-align: center;
+    vertical-align: middle;
+    width: 500px;
+    height: 250px;
+    background-color: #66CDAA;
+    padding: 40px;
+    position: absolute;
+    top: 940px;
+    margin-top: 60px;
+    left: 50%;
+    transform: translate(-50%);
 }
 
 .paivitetty{
@@ -45,6 +67,21 @@ h1{
 
 }
 
+
+h2{
+    font-size: 2em;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+h3{
+    font-size: 1em;
+    margin-top: 120px;
+    text-align: center;
+
+}
+
 .sarjat{
     text-align: center;
     margin-top: 60px;    
@@ -56,13 +93,13 @@ ul {
 }
 
 a:link {
-  color: black;
+  color: #FAF0E6;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #FAF0E6;
   background-color: transparent;
   text-decoration: none;
 }

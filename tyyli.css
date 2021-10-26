@@ -3,7 +3,7 @@ body {background-color: #FFA07A;
       color: #FAF0E6;     
 }
 
-.hyvat{
+.toka{
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     font-size: 5em;
     color: blue;
@@ -19,7 +19,7 @@ body {background-color: #FFA07A;
     left: 50%;
     transform: translate(-50%);
 }
-.huonot{
+.eka{
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     font-size: 5em;
     vertical-align: middle;
@@ -36,9 +36,9 @@ body {background-color: #FFA07A;
     margin-top: 60px;
 }
 
-.nolot{
+.kolmas{
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    font-size: 26px;
+    font-size: 5em;
     line-height: 250px;
     text-align: center;
     vertical-align: middle;
@@ -51,6 +51,23 @@ body {background-color: #FFA07A;
     margin-top: 60px;
     left: 50%;
     transform: translate(-50%);
+}
+
+.neljas{
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 4em;
+  line-height: 250px;
+  text-align: center;
+  vertical-align: middle;
+  width: 500px;
+  height: 250px;
+  background-color: #66CDAA;
+  padding: 40px;
+  position: absolute;
+  top: 1320px;
+  margin-top: 60px;
+  left: 50%;
+  transform: translate(-50%);
 }
 
 .paivitetty{

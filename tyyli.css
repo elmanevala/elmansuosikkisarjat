@@ -103,6 +103,23 @@ body {background-color: #FFA07A;
   left: 50%;
   transform: translate(-50%);
 }
+
+.seiska{
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 4em;
+  line-height: 250px;
+  text-align: center;
+  vertical-align: middle;
+  width: 500px;
+  height: 250px;
+  background-color: #66CDAA;
+  padding: 40px;
+  position: absolute;
+  top: 2460px;
+  margin-top: 60px;
+  left: 50%;
+  transform: translate(-50%);
+}
 .paivitetty{
     text-align: right;
     bottom: 8px;

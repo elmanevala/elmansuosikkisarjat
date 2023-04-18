@@ -1,2 +1,2 @@
 # elmansuosikkisarjat
-Nettisivu, joka listaa kaikki mun suosikkisarjat.
+Nettisivu, joka listaa kaikki mun suosikkisarjat!
